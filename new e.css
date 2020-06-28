@@ -1,0 +1,55 @@
+body{
+    background-image:url('blue-sea-sunset.jpg');
+    background-size: auto;
+}
+
+P{
+    color: black;
+    font-size: 20PX;
+    font-family: 'Times New Roman', Times, serif;
+    font-style:normal;
+    text-align: center;
+}input{ 
+    height: 30px;
+    width: 200px;
+    size: 500px;
+    border: blue;
+    background-color: cadetblue;
+    background-size:700px 300px;
+   margin: 0px 1px 0px 450px;
+    border-radius: 7px;
+}
+
+#mt{
+    background-position: right;
+}
+h1{
+    color: darkcyan;
+    background-color: darkgray;
+    background-size:600px;
+}
+img{
+    border: 5px;
+    margin-top: 7px;
+    float: inline-start;
+}
+h2{
+    
+    background-color: lightseagreen;
+    display: inline;
+    margin-left: 120px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    border-radius: 4px;
+    width:25%
+}
+button{
+    background-color: lightcoral;
+}
+ul{
+    color: peachpuff;
+}
+ol{
+    color: peachpuff;
+}
